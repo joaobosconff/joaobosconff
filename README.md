@@ -1,6 +1,6 @@
 ### Hi there :eyes:
 
-My name is João Bosco, 21yrs, known by JB
+My name is João Bosco, 22yrs, known by JB
 
 - :man_student: I'm on my eighth semestrer in Information System at [UNIFACISA](https://www.unifacisa.edu.br/home).
 - :office:I'm Dev at LTI on [UNIFACISA](https://www.unifacisa.edu.br/home).
