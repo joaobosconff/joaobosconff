@@ -1,8 +1,8 @@
-### Hi there :eyes:
+### Hello there. :eyes:
 
-My name is João Bosco, 22yrs, known by JB
+My name is João Bosco, 23yrs, known by JB
 
-- :man_student: I'm on my ninth semestrer in Information System at [UNIFACISA](https://www.unifacisa.edu.br/home).
+- :man_student: Bachelor in Information System.
 - :office:I'm Dev at [CWI](https://cwi.com.br/).
 - :books: I'm back-end,using Java, Spring Framework, JPA, MongoDb, SQL, Protractor on my work.
 - 🧠 Started to study Angular, CSS, HTML and Javascript.
