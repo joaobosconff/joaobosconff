@@ -5,11 +5,10 @@ My name is João Bosco, 23yrs, known by JB
 - :man_student: Bachelor in Information System.
 - :office:I'm Dev at [CWI](https://cwi.com.br/).
 - :books: I'm back-end,using Java, Spring Framework, JPA, MongoDb, SQL, Protractor on my work.
-- 🧠 Started to study Angular, CSS, HTML and Javascript.
+- 🧠 Started to study Flutter
 ##
 
 <div>
- <a href=https://github.com/SolracSiul">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobosconff&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
