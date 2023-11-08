@@ -12,6 +12,8 @@ My name is João Bosco, 23yrs, known by JB
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobosconff&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
+##
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=joaobosconff&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
