@@ -1,6 +1,6 @@
 ### Hello there. :eyes:
 
-My name is João Bosco, 23yrs, known by JB
+My name is João Bosco, known by JB
 
 - :man_student: Bachelor in Information System.
 - :office:I'm Dev at [CWI](https://cwi.com.br/).
