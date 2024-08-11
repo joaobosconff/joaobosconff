@@ -14,7 +14,7 @@ My name is João Bosco, known by "JB"
 <details><summary>PT-BR</summary>
 Meu nome é João Bosco, conhecido como "JB"
 
-- :man_student: Bachelor in Information System.
+- :man_student: Bacharel em Sistemas de Informação.
 - :office:Sou Engenheiro de Software na [CWI](https://cwi.com.br/).
 - :books: Sou Backend, uso Java, Spring Framework, JPA, MongoDb e SQL no meu trabalho.
 - 🧠 Iniciei os estudos em Kotlin, Docker e Flutter
