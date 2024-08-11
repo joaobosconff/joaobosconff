@@ -1,11 +1,26 @@
 ### Hello there. :eyes:
 
-My name is João Bosco, known by JB
+
+<details open><summary>EN-US</summary>
+My name is João Bosco, known by "JB"
 
 - :man_student: Bachelor in Information System.
-- :office:I'm Dev at [CWI](https://cwi.com.br/).
-- :books: I'm back-end,using Java, Spring Framework, JPA, MongoDb, SQL, Protractor on my work.
-- 🧠 Started to study Flutter
+- :office:I'm Sofware Engineer at [CWI](https://cwi.com.br/).
+- :books: I'm back-end, I use Java, Spring Framework, JPA, MongoDb and SQL on my work.
+- 🧠 Started to study Kotlin, Docker and Flutter
+</details>
+
+
+<details><summary>PT-BR</summary>
+Meu nome é João Bosco, conhecido como "JB"
+
+- :man_student: Bachelor in Information System.
+- :office:Sou Engenheiro de Software na [CWI](https://cwi.com.br/).
+- :books: Sou Backend, uso Java, Spring Framework, JPA, MongoDb e SQL no meu trabalho.
+- 🧠 Iniciei os estudos em Kotlin, Docker e Flutter
+</details>
+
+
 ##
 
 <div>
