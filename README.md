@@ -5,7 +5,7 @@
 My name is João Bosco, known by "JB"
 
 - :man_student: Bachelor in Information System.
-- :office:I'm Sofware Engineer at [CWI](https://cwi.com.br/).
+- :office:I'm Software Engineer at [CWI](https://cwi.com.br/).
 - :books: I'm back-end, I use Java, Spring Framework, JPA, MongoDb and SQL on my work.
 - 🧠 Started to study Kotlin, Docker and Flutter
 </details>
