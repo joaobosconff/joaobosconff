@@ -20,16 +20,9 @@ Meu nome é João Bosco, conhecido como "JB"
 - 🧠 Iniciei os estudos em Kotlin, Docker e Flutter
 </details>
 
-
 ##
 
-<div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobosconff&layout=compact&langs_count=7&theme=merko"/>
-</div>
-
-##
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=joaobosconff&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=joaobosconff&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobosconff&layout=compact&langs_count=7&theme=merko"/> 
 
 ##
 
